@@ -1,0 +1,4 @@
+﻿  Assembling main.asm...
+main.asm(182): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(182): warning A6004: procedure argument or local not referenced : cmdLine
+  PlantillaEnsamblador.vcxproj -> E:\Uni\GhostScape\Debug\PlantillaEnsamblador.exe
